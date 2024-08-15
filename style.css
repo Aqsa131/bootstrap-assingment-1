@@ -1,0 +1,491 @@
+.navbar {
+    background-color: rgb(189, 186, 186);
+    font-weight: 600;
+}
+#nav_icons{
+    background-color: black;
+    color: white;
+    height: 32px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    width: 32px;
+    text-align: center;
+    margin: auto 0;
+    border-radius: 5px;
+    align-content: center;
+}
+#box1{
+    padding-top: 90px;
+}
+#box2{
+    margin-top: 100px;
+}
+#box1 h1{
+    width: 70%;
+    margin: auto;
+    font-size: 2.5em;
+    font-weight: bolder;
+}
+#box1 p{
+    width: 70%;
+    margin: auto;
+    padding-top: 20px;
+}
+#box2{
+    display: flex;
+}
+.trial{
+    padding: 40px 0 0 90px;
+    display: flex;
+}
+.box{
+    width: 255px;
+    height: 52px;
+    border: 4px solid #3030da;
+    border-radius: 5px;
+}
+.img_box img{
+    height: 600px;
+    width: 310px;
+}
+.img_boxes{
+    display: flex;
+    flex-direction: column;
+}
+.hours{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 2.5em;
+    font-weight: bolder;
+}
+.card{
+    width: 200px;
+    text-align: center;
+    -webkit-box-shadow: 2px -1px 10px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px -1px 10px -3px rgba(0,0,0,0.75);
+    box-shadow: 2px -1px 10px -3px rgba(0,0,0,0.75);
+}
+.icon img{
+    width: 80px;
+    height: 80px;
+}
+.facebook img{
+    width: auto;
+    height: 80px;
+}
+.tiktok img{
+    width: auto;
+    height: 80px;
+}
+.tweeter img{
+    width: auto;
+    height: 80px;
+}
+.linkdin img{
+    width: 80px;
+    height: 80px;
+}
+.fa-brands{
+    font-size: 5em;
+}
+.txt{
+    padding-top: 10px;
+}
+.other{
+    width: 350px;
+    height: 200px;
+    text-align: center;
+}
+.temp{
+    height: 700px;
+    background-color: #010117d4;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.templates{
+    color: white;
+    
+}
+.templates h1{
+    font-size: 2.5em;
+    font-weight: bolder;
+    text-align: center;
+}
+.temp_txt{
+    width: 40%;
+    text-align: center;
+    color: white;
+    margin: auto;
+}
+.button{
+    text-align: center;
+    padding-top: 30px;
+}
+#card_sec{
+    padding-top: 30px;
+    width: 95%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#card_text img{
+    height: 100px;
+
+}
+#service h1{
+    margin: 100px 0 30px 0;
+    font-size: 3em;
+    font-weight: bolder;
+    text-align: center;
+}
+#body_txt{
+    text-align: left;
+}
+#body_txt h6{
+    font-weight: bold;
+    font-size: larger;
+}
+#body_txt p{
+    font-weight: 600;
+}
+#logo{
+    margin: 10px;
+    color: white;
+    background-color: blue;
+    width: 27px;
+    height: 25px;
+    border-radius: 5px;
+    padding-top: 4px;
+}
+#story img{
+    width: 285px;
+    height: 260px;
+    border-radius: 8px;
+    margin-top: 40px;
+}
+#color{
+    margin-top: 40px;
+    background-color: #020225;
+    height: 340px;
+    border-radius: 10px;
+    width: 85%;
+    margin: auto;
+}
+#color_text{
+    margin: auto;
+}
+#color h1{
+    color: white;
+}
+#color p{
+    color: white;
+}
+#ranking{
+    margin-top: 130px;
+}
+#rank{
+    margin-top: 60px;
+}
+#rank .col{
+    margin-top: 5px
+}
+#ranking h1{
+    font-size: 2.5em;
+    font-weight: bolder;
+    text-align: center;
+}
+#ranking p{
+    text-align: center;
+}
+#ranking span{
+    text-align: center;font-weight: 700;
+}
+#ranks img{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 20px;
+}
+#rank_div h6{
+    text-align: left;
+    font-weight: 700;
+}
+.start_icon{
+    text-align: justify;
+}
+#start{
+    color: rgb(231, 231, 1);
+    background-color: white;
+    text-align: left;
+}
+#rank_div p{
+    text-align: left;
+}
+#features{
+    margin-top: 100px;
+    background-color: lightgrey;
+}
+#features h1{
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bolder;
+    padding-top: 40px;
+}
+#features p{
+    text-align: center;
+    font-weight: 600;
+}
+.subs{
+    width: 220px;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    border-radius: 5px ;
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+#subs1{
+    border-radius: 5px;
+    background-color: black;
+    width: 130px;
+    height: 45px;
+    align-self: center;
+    margin-left: -10px;
+    padding-top: 10px;
+
+}
+#subs1 p{
+    color: white;
+    font-size: small;
+    font-weight: 700;
+}
+#subs2{
+    margin-left: -10px;
+    padding-top: 10px;
+    margin:auto;
+}
+#subs2 p{
+    color: gray;
+    font-size: small;
+    font-weight: 700;
+}
+.subscription{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    width: 85%;
+    margin: auto;
+
+}
+.subscription1{
+    width: 245px;
+    height: 420px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 2px 0px 12px -1px rgba(0,0,0,0.75);
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.hide{
+    background-color: blue;
+    height: 40px;
+    width: 100%; 
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    display: none;
+}
+.hide p{
+    color: white;
+    font-size:x-small;
+    padding-top: 10px;
+}
+.free{
+    font-weight: 700;
+    font-size: x-large;
+    padding: 20px 0 0 20px;
+}
+.dollar{
+    font-size: xxx-large;
+    padding-left: 20px;
+}
+.dollar sub{
+    font-size: medium;
+}
+.try{
+    background-color: white;
+    border: 2px solid rgb(0, 0, 126);
+    width: 205px;
+    height: 40px;
+    color: rgb(0, 0, 126) honeydewk;
+    font-weight: 500;
+    margin-left: 20px;
+}
+.my_icons{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.ico_txt{
+    display: flex;
+}
+.ico_txt i{
+    color: black;
+    font-size: small;
+    padding: 5px;
+}
+.ico_txt p{
+    color: black;
+    background-color: white;
+    font-size: x-small;
+    text-decoration:underline;
+    margin-bottom: auto;
+}
+.ico_txt_blur{
+    display: flex;
+}
+.ico_txt_blur i{
+    color: lightgray;
+    font-size: small;
+    padding: 5px;
+}
+.ico_txt_blur p{
+    color: lightgray;
+    background-color: white;
+    font-size: x-small;
+    text-decoration:line-through;
+    margin-bottom: auto;
+}
+.subscription1:hover{
+    border: 4px solid blue;
+    .hide{
+        display: block;
+    }
+}
+
+
+/* media quieries */
+
+@media(max-width : 1230px){
+    .temp{
+     height: 900px;
+    }
+    #card_text{
+     margin-top: 10px;
+    }
+     
+ }
+ @media(max-width : 1200px){
+    #color{
+        width: auto;
+    }
+ }
+  
+@media(max-width : 1190px){
+    #box1 h1{
+        width: auto;
+    }
+    #box1 p{
+        width: auto;
+    }
+    .trial{
+        display: inline;
+    }
+    .card{
+        margin: 10px;
+    }
+}
+
+@media(max-width : 990px){
+    .navbar-brand{
+        width: 86%;
+        padding: 0;
+        margin: 0;
+    }
+    .nav-link{
+        margin: 0;
+    }
+    #color{
+        background-color: white;
+    }
+    #color_text{
+        margin: 0;
+    }
+    #color h1{
+        color: black;
+    }
+    #color p{
+        color: black;
+    }
+}
+
+@media(max-width : 770px){
+    .navbar-toggler{
+        margin-top: 30px;
+    }
+    #service h1{
+        text-align: left;
+    }
+    #ranking{
+        margin-top:245px;
+    }
+}
+
+@media(max-width :664px){
+    .temp{
+        min-height: 200vh;
+    } 
+    #ranking h1{
+        text-align:left ;
+    }
+    #ranking p{
+        text-align:left ;
+    }
+ }
+@media(max-width :615px){
+    
+}
+
+
+@media(max-width : 520px){
+    #box2{
+        display: grid;
+    }
+    .img_box img{
+        width: auto;
+        height: auto;
+    }
+    .image_boxes{
+        display: flex;
+        flex-direction: column;
+    }
+    .image_boxes img{
+        height: auto;
+    }
+    .temp{
+        height: auto;
+    }
+    .temp_txt{
+        width: auto;
+    }
+}
+
+@media(max-width : 270px){
+    .navbar-toggler{
+        margin: 0;
+    }
+    .tiktok img{
+        width: 160px;
+        height: 70px;
+        
+    }
+    .justify-content-around{
+        padding: 1px;
+    }
+    .card{
+        margin: 0;
+    }
+}
